@@ -4,9 +4,6 @@ HANA refers to the <strong>in-memory</strong> database
 built for high performance with multi-core CPUs with parallelization of execution.
 It's deployable as an appliance or in the cloud.
 
-http://help.sap.com/hana_platform
-is the developer portal
-
 Proof points
 https://www.youtube.com/watch?v=YVsJA1CaXqE&t=1m55s
 USHR 80X
@@ -62,7 +59,11 @@ Solution releases:
 
 
 ## Development
+The developer portal is at 
+http://help.sap.com/hana_platform
+
 SAP HANA Studio 
+
 WIPE is the query and manipulation language
 
 AFL (App Functional Library)
