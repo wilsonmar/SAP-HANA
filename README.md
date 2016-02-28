@@ -19,6 +19,11 @@ The change is to "Digital Transformation" toward hyper-customization at scale
 Quick yet complex analytics support yield predictions and simulations for better decision making.
 Removing obstacles yields more transparency for better collaboration. 
 
+## Measurement
+This means measurement of the actual payback from migration to HANA needs to focus not on just on the technical
+speed such as how quickly batches can process transactions within a period of time,
+but the increase in employee responsiveness and resultant incrase in customer capture and satisfaction.
+
 ## S4HANA
 http://sap.com/S4HANA
 based on the SAP Fiori UI across mobile, desktop, tablet
