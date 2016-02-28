@@ -14,7 +14,7 @@ USHR 80X
 More importantly, HANA is marketed to support real-time decision making
 and fast change rate.
 
-This comes partly from a simpler data model and Fiori UX.
+This comes partly from guided configuration, a simpler data model, and SAP's Fiori UX.
 
 
 ## S4HANA
