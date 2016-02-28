@@ -7,15 +7,17 @@ The big data and IoT components is deployable as an on-premise appliance or as a
 
 
 
-Its customer proof points
-https://www.youtube.com/watch?v=YVsJA1CaXqE&t=1m55s
-USHR 80X
+Its customer proof points (such as
+![USHR](https://www.youtube.com/watch?v=YVsJA1CaXqE&t=1m55s)
+claim 80X faster speeds.
+Speed also comes from guided configuration, a simpler data model, and SAP's Fiori UX.
 
-More importantly, HANA is marketed to support real-time decision making
-and fast change rate.
-
-This comes partly from guided configuration, a simpler data model, and SAP's Fiori UX.
-
+Faster speeds enables HANA to be marketed for supporting real-time decision making
+and fast change rate. 
+The change is to "Digital Transformation" toward hyper-customization at scale
+(lot sizes of 1, customer segmentation of 1, etc.).
+Quick yet complex analytics support yield predictions and simulations for better decision making.
+Removing obstacles yields more transparency for better collaboration. 
 
 ## S4HANA
 http://sap.com/S4HANA
