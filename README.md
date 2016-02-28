@@ -1,13 +1,20 @@
 # SAP-HANA
 
-HANA refers to the <strong>in-memory</strong> database
+HANA technically refers to the <strong>in-memory</strong> columnar database
 built for high performance with multi-core CPUs with parallelization of execution.
-It's deployable as an appliance or in the cloud.
 
-Proof points
+The big data and IoT components is deployable as an on-premise appliance or as a cloud edition.
+
+
+
+Its customer proof points
 https://www.youtube.com/watch?v=YVsJA1CaXqE&t=1m55s
 USHR 80X
 
+More importantly, HANA is marketed to support real-time decision making
+and fast change rate.
+
+This comes partly from a simpler data model and Fiori UX.
 
 
 ## S4HANA
