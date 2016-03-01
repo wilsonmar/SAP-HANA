@@ -6,8 +6,9 @@ built for high performance with multi-core CPUs with parallelization of executio
 So HANA enables SAP to earn database license revenue
 instead of Oracle. 
 
-![SAP's offcial Roadmap](http://service.sap.com/saproadmaps)
-on SAP Service Marketplace (SMP).
+* ![SAP's Roadmaps on Service Marketplace](http://service.sap.com/saproadmaps)
+   on SAP Service Marketplace (SMP).
+* ![SAP's product and solutions roadmap](http://scn.sap.com/community/product-and-solution-road-maps)
 
 ## HANA for business
 
@@ -30,9 +31,12 @@ Quick yet complex analytics support yield predictions and simulations for better
 Removing obstacles yields more transparency for better collaboration. 
 
 ## Measurement
-Because one of the objectives to HANA adoption is to replace
-traditional overnight batch processing with real-time processes, 
-measurements of batch processing has become an obsolete concept.
+One of the objectives to HANA adoption is to replace
+traditional overnight batch processing with real-time processes.
+
+
+
+This renders measurements of batch processing an obsolete concept.
 
 Thus, measurements of improvement under HANA 
 needs to focus not on just on the technical
@@ -53,6 +57,12 @@ must continue to include at its core
 <strong>availability</strong>, but to do it throughout the deployment lifecycle
 as a predictor of future availability.
 Systems do not magically stabilize overnight, but gradually over time.
+
+Availability (and underlying capacity) is critical for real-time servers, especially the
+<a target="_blank" href="http://scn.sap.com/docs/DOC-59784">
+SLT (SAP Landscape Transformation)</a> replication server which runs on the NetWeaver Platform
+which provide a stream of data from SAP ERP or non-SAP systems into HANA.
+As a rule of thumb, one dedicated replication job per large table is recommended.
 
 QUESTION: With cloud deployments, would the company have 
 access to low-level CPU and memory statistics per server

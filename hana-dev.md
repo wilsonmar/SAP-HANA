@@ -1,7 +1,8 @@
-
 ## Development
-The developer portal is at 
-http://help.sap.com/hana_platform
+
+* ![SAP Developer portal](http://help.sap.com/hana_platform)
+
+* ![SAPUI5 Developer Center](http://scn.sap.com/community/developer-center/front-end)
 
 SAP HANA Studio 
 
@@ -25,5 +26,6 @@ Each  HANA system consists of
 * Index server handles SQL MDX from client apps
 * Name server
 * option host
+
 
 
