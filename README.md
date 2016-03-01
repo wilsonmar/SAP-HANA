@@ -36,7 +36,7 @@ traditional overnight batch processing with real-time processes.
 
 
 
-This renders measurements of batch processing an obsolete concept.
+HANA renders measurements of batch processing mostly obsolete.
 
 Thus, measurements of improvement under HANA 
 needs to focus not on just on the technical
@@ -44,6 +44,8 @@ speed such as how quickly batches can process transactions within a period of ti
 but the increase in employee responsiveness 
 and resultant increase in customer capture and satisfaction
 that justify payback from migration to HANA.
+
+![hana real-time atp times](https://cloud.githubusercontent.com/assets/300046/13437095/5803898a-df97-11e5-8e27-ece55c708c40.JPG)
 
 The promise of fast change means that measurements include
 the <strong>time from conception to realization</strong>
