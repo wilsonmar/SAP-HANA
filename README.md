@@ -62,9 +62,14 @@ Systems do not magically stabilize overnight, but gradually over time.
 
 Availability (and underlying capacity) is critical for real-time servers, especially the
 <a target="_blank" href="http://scn.sap.com/docs/DOC-59784">
-SLT (SAP Landscape Transformation)</a> replication server which runs on the NetWeaver Platform
-which provide a stream of data from SAP ERP or non-SAP systems into HANA.
+SLT (SAP Landscape Transformation)</a> trigger-based replication server 
+running on the NetWeaver Platform
+to provide a stream of data into HANA from SAP ERP or non-SAP systems.
 As a rule of thumb, one dedicated replication job per large table is recommended.
+
+![hana slt within data input servers](https://cloud.githubusercontent.com/assets/300046/13437736/a555e8ba-df9a-11e5-8c1d-783e68778c85.JPG)
+
+Transaction IUUC_REPL_CONTENT for Data and Structure Transformation specification UI.
 
 QUESTION: With cloud deployments, would the company have 
 access to low-level CPU and memory statistics per server
