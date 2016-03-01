@@ -11,7 +11,7 @@ on SAP Service Marketplace (SMP).
 
 ## HANA for business
 
-Its customer proof points (such as
+SAP's customer proof points (such as
 ![USHR](https://www.youtube.com/watch?v=YVsJA1CaXqE&t=1m55s)
 claim 80X faster speeds.
 
@@ -34,7 +34,7 @@ Because one of the objectives to HANA adoption is to replace
 traditional overnight batch processing with real-time processes, 
 measurements of batch processing has become an obsolete concept.
 
-Measurements under HANA 
+Thus, measurements of improvement under HANA 
 needs to focus not on just on the technical
 speed such as how quickly batches can process transactions within a period of time,
 but the increase in employee responsiveness 
@@ -75,7 +75,7 @@ instead of traditional ABAP Z coding.
 
 
 
-## SAP S/4HANA
+## SAP S/4HANA Components
 
 Traditional SAP Business Suite users move to SAP Business Suite on SAP HANA,
 then transition to SAP S/4HANA?
@@ -94,37 +94,15 @@ for End-to-end business processes:
 
 * ATP (Availability to Promise) integrated into S/4HANA.
 
-Separately in SAP HANA Platform are:
+Separately in SAP HANA Platform but not S/4HANA:
 
 * APO (Advanced Planning &amp; Optimization)
 * SNC (Supply Network Collaboration)
 
-CRM 7 is an add-on to S/4.
-
+CRM 7 is an add-on to S/4HANA.
 
 http://www.experiencesaphana.com/community/resources/use-cases
 Use Case Repository
-
-
-## Learning and Certification
-https://open.sap.com/
-
-https://open.sap.com/courses/s4h4
-over 4 weeks
-SAP Activate is the unique adoption framework
-
-![S4/HANA Cookbook](http://scn.sap.com/docs/DOC-64980)
-
-Deep Dive
-https://open.sap.com/courses/s4h2
-
-Use Cases 4 hours over 3 weeks
-https://open.sap.com/courses/s4h3
-
-SAP videos on Youtube
-https://www.youtube.com/channel/UC8cXSTGDhiZK5229zi-KTXA
-
-https://training.sap.com/shop/certification-hub/
 
 
 ## About SAP
@@ -139,33 +117,4 @@ Solution releases:
 * SPS11
 * SPS10
 * SPS09
-
-
-## Development
-The developer portal is at 
-http://help.sap.com/hana_platform
-
-SAP HANA Studio 
-
-WIPE is the query and manipulation language
-
-AFL (App Functional Library)
-LCAPP (Light Cache Application)
-
-HANA is written mainly in C++ and runs on the Linux operating system,
-new SAP architecture framework of LSA++ (Layered Scalable Architecture).
-
-
-## Operations
-Guided Configuration
-
-The HDB LCM (LifeCycle Manager) GUI is used to define typology components.
-
-Each  HANA system consists of
-* "XS" (for eXtended app Services) server is the web app server that hosts services
-   such as statistics gathering, analytical queries and data replication
-* Index server handles SQL MDX from client apps
-* Name server
-* option host
-
 
