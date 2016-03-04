@@ -53,7 +53,7 @@ rather than just traditional SLAs from static system structures.
 
 
 
-### Availability
+### Availability Metrics
 A proactive approach to measure productivity 
 must continue to include at its core
 <strong>availability</strong>, but to do it throughout the deployment lifecycle
@@ -90,17 +90,16 @@ using SAPUI5 JavaScript library)
 working on the browser-based SAP Web IDE 
 instead of traditional ABAP Z coding.
 
-
+SAPUI5 is the Javascript framework using HTML5 and CSS3.
 
 ## SAP S/4HANA Components
 
-Traditional SAP Business Suite users move to SAP Business Suite on SAP HANA,
+QUESTION: Traditional SAP Business Suite users move to SAP Business Suite on SAP HANA,
 then transition to SAP S/4HANA?
 
 http://sap.com/S4HANA
 based on the SAP Fiori UI across mobile, desktop, tablet
 for End-to-end business processes:
-(SAPUI5 is the Javascript framework using HTML5 and CSS3)
 
 * Procure to Pay
 * Plan to Product
