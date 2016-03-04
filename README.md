@@ -90,7 +90,12 @@ using SAPUI5 JavaScript library)
 working on the browser-based SAP Web IDE 
 instead of traditional ABAP Z coding.
 
+## UI Testing
+
 SAPUI5 is the Javascript framework using HTML5 and CSS3.
+
+OData is the format which JavaScript uses to transfer data to the HCP.
+So a test framework can focus only on data transfer.
 
 ## SAP S/4HANA Components
 
@@ -122,14 +127,17 @@ Use Case Repository
 
 ## Versions
 First delivered November 2010, SAP HANA in 
-solution release SPS11 added Advanced edition of XS (eXtended Services) running in the HANA database
-with run-time containers running 
+solution release SPS11 added Advanced edition of XS (eXtended Services) 
+<strong>apps running in the HANA database</strong> (without an additional app server)
+with run-time containers running:
 
-* JavaScript on Node.js (V8 instead of Mozilla SpiderMonkey) 
+* JavaScript on Node.js XSJS (runs on V8 instead of Mozilla SpiderMonkey) 
 * Java on TomEE
 * C++ via FastCGI
 
-Source control is Git/Github with custom support for Containers.
+Source control is Git/Github with custom support for Containers
+with HDI (HANA Deployment Infrastructure)
+that integrates with Jenkins and Garret.
 
 ## More About SAP
 * http://sapterm.com/
