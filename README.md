@@ -125,15 +125,18 @@ CRM 7 is an add-on to S/4HANA.
 http://www.experiencesaphana.com/community/resources/use-cases
 Use Case Repository
 
-## Versions
-First delivered November 2010, SAP HANA in 
-solution release SPS11 added Advanced edition of XS (eXtended Services) 
+## XS Advanced
+SAP HANA was first delivered November 2010.
+
+Solution release SPS11 adds Advanced edition of XS (eXtended Services) 
 <strong>apps running in the HANA database</strong> (without an additional app server)
 with run-time containers running:
 
-* JavaScript on Node.js XSJS (runs on V8 instead of Mozilla SpiderMonkey) 
+* JavaScript on Node.js XSJS (runs on V8 instead of Mozilla SpiderMonkey, but major inconsistencies are not expected) 
 * Java on TomEE
 * C++ via FastCGI
+
+The xs command-line utility is provided.
 
 Source control is Git/Github with custom support for Containers
 with HDI (HANA Deployment Infrastructure)
