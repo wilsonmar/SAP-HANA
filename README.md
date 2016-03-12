@@ -5,7 +5,8 @@ go quickly and end up with performant apps.
 
 Elements of this project include sample code, code generators, and training materials.
 
-## What is SAP-HANA?
+<a name="WhatIsHANA">
+## What is SAP-HANA?</a>
 
 HANA technically refers to the <strong>in-memory</strong> columnar database
 built for high performance with multi-core CPUs with parallelization of execution.
@@ -17,7 +18,8 @@ instead of Oracle.
    on SAP Service Marketplace (SMP).
 * ![SAP's product and solutions roadmap](http://scn.sap.com/community/product-and-solution-road-maps)
 
-## HANA for business
+<a name="HANA4Biz">
+## HANA for business</a>
 
 SAP's customer proof points (such as
 ![USHR](https://www.youtube.com/watch?v=YVsJA1CaXqE&t=1m55s)
@@ -76,7 +78,9 @@ MRP Live also offers functionality to selectively plan materials or a group of m
 ### The productivity cost of switching
 Where MRP Live is missing functionality -- for example, planning materials of special procurement types are still not fully available in MRP Live -- the system switches to MRP Classic to plan relevant materials. Special procurement types include subcontracting (outsourcing), interplant transfer and direct procurement or production.
 
-### Availability Metrics
+<a name="AvailabilityMetrics">
+### Availability Metrics</a>
+
 A proactive approach to measure productivity 
 must continue to include at its core
 <strong>availability</strong>, but to do it throughout the deployment lifecycle
@@ -98,7 +102,8 @@ QUESTION: With cloud deployments, would the company have
 access to low-level CPU and memory statistics per server
 since SAP maintains those servers?
 
-## On-premise or cloud?
+<a name="OnPremiseOrCloud">
+## On-premise or cloud?</a>
 
 Although SAP makes a blanket statement that the 
 Big Data and IoT components is deployable on-premise 
@@ -113,7 +118,8 @@ using SAPUI5 JavaScript library)
 working on the browser-based SAP Web IDE 
 instead of traditional ABAP Z coding.
 
-## UI Testing
+<a name="FioriUI">
+## UI Testing</a>
 
 Fiori is the new UI standard
 
@@ -124,6 +130,8 @@ Fiori is the new UI standard
    * A screen displaying sample UI elements is at
      https://experience.sap.com/fiori-design/explore/
 
+<a name="AppTypes">
+### App Types</a>
 Fiori has several App Types.
    See them in action at
    https://www.sapfioritrial.com/sites?helpset=trial&sap-client=001
@@ -137,8 +145,8 @@ Fiori has several App Types.
    * The "Shopping" App type
      https://experience.sap.com/fiori-design/app-types/shopping-app/
 
-* Analysis Path Framework at
-https://experience.sap.com/fiori-design/app-types/analysis-path-framework/
+   * Analysis Path Framework at
+     https://experience.sap.com/fiori-design/app-types/analysis-path-framework/
 
    * The SAP Smart Business Framework provides drill-down capabitilies at
    https://experience.sap.com/fiori-design/app-types/smart-business-drill-down-app/
@@ -148,7 +156,8 @@ SAPUI5 is the Javascript framework using HTML5 and CSS3.
 OData is the format which JavaScript uses to transfer data to the HCP.
 So a test framework can focus only on data transfer.
 
-## SAP S/4HANA Components
+<a name="Processes">
+## SAP S/4HANA Processes</a>
 
 QUESTION: Traditional SAP Business Suite users move to SAP Business Suite on SAP HANA,
 then transition to SAP S/4HANA?
@@ -176,7 +185,8 @@ CRM 7 is an add-on to S/4HANA.
 http://www.experiencesaphana.com/community/resources/use-cases
 Use Case Repository
 
-## XS Advanced
+<a name="XSAdvanced">
+## XS Advanced</a>
 SAP HANA was first delivered November 2010.
 
 Solution release SPS11 adds Advanced edition of XS (eXtended Services) 
@@ -193,7 +203,8 @@ Source control is Git/Github with custom support for Containers
 with HDI (HANA Deployment Infrastructure)
 that integrates with Jenkins and Garret.
 
-## More About SAP
+<a name="Resources">
+## More About SAP</a>
 * http://sapterm.com/
   Terms
 
