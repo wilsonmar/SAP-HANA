@@ -115,6 +115,34 @@ instead of traditional ABAP Z coding.
 
 ## UI Testing
 
+Fiori is the new UI standard
+
+   * SAP provides design stencils and icon fonts for use by
+     the Axure designer software used to design custom screens
+     https://experience.sap.com/fiori-design/resources/downloads/
+
+   * A screen displaying sample UI elements is at
+     https://experience.sap.com/fiori-design/explore/
+
+Fiori has several App Types.
+   See them in action at
+   https://www.sapfioritrial.com/sites?helpset=trial&sap-client=001
+
+   * The "Approval" App type described at
+     https://experience.sap.com/fiori-design/app-types/approval-app/
+
+   * The "Master Detail" App type
+     https://experience.sap.com/fiori-design/app-types/master-detail-app/
+
+   * The "Shopping" App type
+     https://experience.sap.com/fiori-design/app-types/shopping-app/
+
+* Analysis Path Framework at
+https://experience.sap.com/fiori-design/app-types/analysis-path-framework/
+
+   * The SAP Smart Business Framework provides drill-down capabitilies at
+   https://experience.sap.com/fiori-design/app-types/smart-business-drill-down-app/
+
 SAPUI5 is the Javascript framework using HTML5 and CSS3.
 
 OData is the format which JavaScript uses to transfer data to the HCP.
