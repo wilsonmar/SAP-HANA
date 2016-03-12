@@ -1,4 +1,11 @@
-# SAP-HANA
+# SAP-HANA 
+
+This repo provides a complete package for ensuring that SAP HANA implementions
+go quickly and end up with performant apps.
+
+Elements of this project include sample code, code generators, and training materials.
+
+## What is SAP-HANA?
 
 HANA technically refers to the <strong>in-memory</strong> columnar database
 built for high performance with multi-core CPUs with parallelization of execution.
