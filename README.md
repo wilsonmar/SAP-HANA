@@ -50,8 +50,24 @@ that justify payback from migration to HANA.
 The promise of fast change means that measurements include
 the <strong>time from conception to realization</strong>
 rather than just traditional SLAs from static system structures.
+This is a whole paradigm change to looking at outcomes
+rather than process metrics.
 
+For example, ERP material planners are transitioning from MRP Classic to MRP Live on SAP HANA.
+<a target="_blank" href="http://searchsap.techtarget.com/answer/How-is-MRP-Live-MRP-on-SAP-HANA-different-from-MRP-Classic">
+TechTarget says:</a> MRP Live enables planners to simulate 
+<strong>"what-if" scenarios</strong>
+in real time to provide a preview of required capital tie-up, required production capacities, and inventory controlling. 
+These features are the same as those available in the SAP Long Term Planning simulation tool.
 
+But MRP Live is far speedier than its predecessor, enabling planners to execute materials planning on shorter planning cycles so that the materials' demand-and-supply situation is visible almost on a real-time basis. 
+Moreover, the system enables planners to identify and take actions on urgent issues. To support planners' work using MRP Live, the 
+MRP Cockpit 
+offers several dashboards that enable them to monitor key performance indicators such as delayed materials deliveries from vendors, delayed shipments to customers or expected materials shortages. 
+MRP Live also offers functionality to selectively plan materials or a group of materials, which was not available in MRP Classic. 
+
+### The productivity cost of switching
+Where MRP Live is missing functionality -- for example, planning materials of special procurement types are still not fully available in MRP Live -- the system switches to MRP Classic to plan relevant materials. Special procurement types include subcontracting (outsourcing), interplant transfer and direct procurement or production.
 
 ### Availability Metrics
 A proactive approach to measure productivity 
