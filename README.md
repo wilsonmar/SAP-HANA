@@ -128,7 +128,11 @@ Fiori is the new UI standard
      https://experience.sap.com/fiori-design/resources/downloads/
 
    * A screen displaying sample UI elements is at
-     https://experience.sap.com/fiori-design/explore/
+   https://experience.sap.com/fiori-design/explore/
+
+   * The mobile web UI "Kitchen Sink" demo is at
+   https://sapui5.netweaver.ondemand.com/explored.html
+
 
 <a name="AppTypes">
 ### App Types</a>
@@ -151,10 +155,31 @@ Fiori has several App Types.
    * The SAP Smart Business Framework provides drill-down capabitilies at
    https://experience.sap.com/fiori-design/app-types/smart-business-drill-down-app/
 
+<a name="SAPUI5">
+## SAPUI5</a>
 SAPUI5 is the Javascript framework using HTML5 and CSS3.
 
+* The Developer Guide is at 
+   https://sapui5.netweaver.ondemand.com/
+
+* Developer Center
+   http://scn.sap.com/community/developer-center/front-end
+
+* Independent of SAP is 
+   http://www.sapui5.org/sapui5blogs/
+
+<a name="OData">
+## OData</a>
+
 OData is the format which JavaScript uses to transfer data to the HCP.
-So a test framework can focus only on data transfer.
+
+   * VIDEO: SAPUI5 - oData Operations (Create/Update/Delete) - Part 1 
+   https://www.youtube.com/watch?v=qMgU3b_Lvz0
+
+   * Part 2:
+   https://www.youtube.com/watch?v=wA_lK93PDU4
+
+A test framework can focus only on data transfers.
 
 <a name="Processes">
 ## SAP S/4HANA Processes</a>
