@@ -6,6 +6,7 @@ go quickly and end up with performant apps.
 Elements of this project include sample code, code generators, and training materials.
 
 <a name="WhatIsHANA">
+
 ## What is SAP-HANA?</a>
 
 HANA technically refers to the <strong>in-memory</strong> columnar database
@@ -19,6 +20,7 @@ instead of Oracle.
 * ![SAP's product and solutions roadmap](http://scn.sap.com/community/product-and-solution-road-maps)
 
 <a name="HANA4Biz">
+   
 ## HANA for business</a>
 
 SAP's customer proof points (such as
@@ -79,6 +81,7 @@ MRP Live also offers functionality to selectively plan materials or a group of m
 Where MRP Live is missing functionality -- for example, planning materials of special procurement types are still not fully available in MRP Live -- the system switches to MRP Classic to plan relevant materials. Special procurement types include subcontracting (outsourcing), interplant transfer and direct procurement or production.
 
 <a name="AvailabilityMetrics">
+   
 ### Availability Metrics</a>
 
 A proactive approach to measure productivity 
@@ -103,6 +106,7 @@ access to low-level CPU and memory statistics per server
 since SAP maintains those servers?
 
 <a name="OnPremiseOrCloud">
+   
 ## On-premise or cloud?</a>
 
 Although SAP makes a blanket statement that the 
@@ -119,6 +123,7 @@ working on the browser-based SAP Web IDE
 instead of traditional ABAP Z coding.
 
 <a name="FioriUI">
+   
 ## UI Testing</a>
 
 Fiori is the new UI standard
@@ -135,7 +140,9 @@ Fiori is the new UI standard
 
 
 <a name="AppTypes">
+   
 ### App Types</a>
+
 Fiori has several App Types.
    See them in action at
    https://www.sapfioritrial.com/sites?helpset=trial&sap-client=001
@@ -156,7 +163,9 @@ Fiori has several App Types.
    https://experience.sap.com/fiori-design/app-types/smart-business-drill-down-app/
 
 <a name="SAPUI5">
+   
 ## SAPUI5</a>
+
 SAPUI5 is the Javascript framework using HTML5 and CSS3.
 
 * The Developer Guide is at 
@@ -169,6 +178,7 @@ SAPUI5 is the Javascript framework using HTML5 and CSS3.
    http://www.sapui5.org/sapui5blogs/
 
 <a name="OData">
+   
 ## OData</a>
 
 OData is the format which JavaScript uses to transfer data to the HCP.
@@ -182,6 +192,7 @@ OData is the format which JavaScript uses to transfer data to the HCP.
 A test framework can focus only on data transfers.
 
 <a name="Processes">
+   
 ## SAP S/4HANA Processes</a>
 
 QUESTION: Traditional SAP Business Suite users move to SAP Business Suite on SAP HANA,
@@ -211,7 +222,9 @@ http://www.experiencesaphana.com/community/resources/use-cases
 Use Case Repository
 
 <a name="XSAdvanced">
+   
 ## XS Advanced</a>
+
 SAP HANA was first delivered November 2010.
 
 Solution release SPS11 adds Advanced edition of XS (eXtended Services) 
@@ -229,7 +242,9 @@ with HDI (HANA Deployment Infrastructure)
 that integrates with Jenkins and Garret.
 
 <a name="Resources">
+   
 ## More About SAP</a>
+
 * http://sapterm.com/
   Terms
 
