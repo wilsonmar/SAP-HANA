@@ -3,6 +3,17 @@
 This repo provides a complete package for ensuring that SAP HANA implementions
 go quickly and end up with performant apps.
 
+<a name="Resources">
+   
+## Glossary of SAP terms</a>
+
+If you run across a term unfamiliar to you, please refer to the SAP terminology glossaries:
+
+* http://sapterm.com/
+  Terms
+* http://help.sap.com/saphelp_glossary/en/index.htm
+
+
 Elements of this project include sample code, code generators, and training materials.
 
 <a name="WhatIsHANA">
@@ -240,13 +251,4 @@ The xs command-line utility is provided.
 Source control is Git/Github with custom support for Containers
 with HDI (HANA Deployment Infrastructure)
 that integrates with Jenkins and Garret.
-
-<a name="Resources">
-   
-## More About SAP</a>
-
-* http://sapterm.com/
-  Terms
-
-* http://help.sap.com/saphelp_glossary/en/index.htm
 
